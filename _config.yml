@@ -1,7 +1,6 @@
-title: Yang Bai
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: Yunming Zhang
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -18,7 +17,7 @@ minima:
   social_links:
     twitter: jekyllrb
     github:  jekyll
-    # devto: jekyll
+    rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -31,17 +30,9 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
     # - username: jekyll
     #   instance: example.com
     # - username: jekyll2
