@@ -44,7 +44,8 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+# theme: minima
+theme: lanyon 
 
 plugins:
  - jekyll-feed
